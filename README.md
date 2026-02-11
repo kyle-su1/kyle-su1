@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey! I'm Kyle 👋
+I'm a Computer Engineering undergraduate at the University of Waterloo. I'm interested in backend architecture, database development, and scalable API systems.
 <!--
 **kyle-su1/kyle-su1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
